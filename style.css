@@ -1,0 +1,50 @@
+#main {  
+  border-radius: 5px;
+  background-color: #e3e3e3;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.div1 { 
+  padding: 5px;
+}
+
+#title { 
+  font-size: 40px;
+}
+
+.text-format {
+  font-family: segoe ui;
+  text-align: center;
+}
+
+#img-div {
+  background: #FFFFFF;
+  margin: 15px;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption { 
+  padding: 15px;
+}
+
+#tribute-info {
+  font-family: segoe ui;
+  margin-left: 32%;
+  margin-right: 32%;
+}
+
+#info-title {
+  padding: 35px; 
+}
+
+#tribute-link {
+  color: #0080B0;
+  
+}
